@@ -2,15 +2,19 @@ import { useState } from 'react'
 
 const EMPTY_FORM = {
   name: '',
+  address: '',
   phone: '',
   email: '',
   container: '',
   size: '',
   startDate: '',
   price: '',
+  deposit: 'None',
+  accessHours: '06:00-19:00, 7 days a week',
   padlock: '',
   keys: '',
   fob: '',
+  declaredValue: '',
   notes: '',
 }
 
@@ -55,29 +59,40 @@ export default function FormPanel({ onSubmit, onClose }) {
               className="field-input"
             />
           </Field>
-          <Field label="Phone Number">
+          <Field label="Address">
             <input
-              type="tel"
-              value={form.phone}
-              onChange={update('phone')}
-              placeholder="e.g. 07700 900 123"
+              type="text"
+              value={form.address}
+              onChange={update('address')}
+              placeholder="e.g. 12 High Street, Camberley, GU15 1AB"
               className="field-input"
             />
           </Field>
-          <Field label="Email">
-            <input
-              type="email"
-              value={form.email}
-              onChange={update('email')}
-              placeholder="e.g. john@example.com"
-              className="field-input"
-            />
-          </Field>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <Field label="Phone Number">
+              <input
+                type="tel"
+                value={form.phone}
+                onChange={update('phone')}
+                placeholder="e.g. 07700 900 123"
+                className="field-input"
+              />
+            </Field>
+            <Field label="Email">
+              <input
+                type="email"
+                value={form.email}
+                onChange={update('email')}
+                placeholder="e.g. john@example.com"
+                className="field-input"
+              />
+            </Field>
+          </div>
 
           <Divider />
 
           {/* ── Container Info ── */}
-          <div className="grid grid-cols-2 gap-3">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             <Field label="Container Number">
               <select value={form.container} onChange={update('container')} className="field-input">
                 <option value="">Select...</option>
@@ -95,7 +110,7 @@ export default function FormPanel({ onSubmit, onClose }) {
             </Field>
           </div>
 
-          <div className="grid grid-cols-2 gap-3">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             <Field label="Start Date">
               <input
                 type="date"
@@ -104,7 +119,7 @@ export default function FormPanel({ onSubmit, onClose }) {
                 className="field-input"
               />
             </Field>
-            <Field label="Monthly Price">
+            <Field label="Monthly Price (ex VAT)">
               <div className="relative">
                 <span className="absolute left-2.5 top-1/2 -translate-y-1/2 text-gray-400 text-sm select-none pointer-events-none">
                   £
@@ -121,11 +136,31 @@ export default function FormPanel({ onSubmit, onClose }) {
               </div>
             </Field>
           </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+            <Field label="Deposit">
+              <input
+                type="text"
+                value={form.deposit}
+                onChange={update('deposit')}
+                placeholder="e.g. None"
+                className="field-input"
+              />
+            </Field>
+            <Field label="Access Hours">
+              <input
+                type="text"
+                value={form.accessHours}
+                onChange={update('accessHours')}
+                placeholder="e.g. 06:00-19:00, 7 days"
+                className="field-input"
+              />
+            </Field>
+          </div>
 
           <Divider />
 
           {/* ── Access Info ── */}
-          <div className="grid grid-cols-2 gap-3">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
             <Field label="Padlock Number">
               <input
                 type="text"
@@ -154,6 +189,25 @@ export default function FormPanel({ onSubmit, onClose }) {
               placeholder="e.g. FOB-19A"
               className="field-input"
             />
+          </Field>
+
+          <Divider />
+
+          {/* ── Insurance ── */}
+          <Field label="Declared Value of Goods">
+            <div className="relative">
+              <span className="absolute left-2.5 top-1/2 -translate-y-1/2 text-gray-400 text-sm select-none pointer-events-none">
+                £
+              </span>
+              <input
+                type="number"
+                value={form.declaredValue}
+                onChange={update('declaredValue')}
+                placeholder="0"
+                min="0"
+                className="field-input pl-6"
+              />
+            </div>
           </Field>
 
           <Divider />

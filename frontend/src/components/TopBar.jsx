@@ -1,16 +1,9 @@
 export default function TopBar({ search, onSearch, onNewCustomer, activePage, onPageChange }) {
   return (
-    <div className="sticky top-0 z-50 bg-white border-b border-gray-200 px-4 h-12 flex items-center justify-between">
-      {/* Left: Logo */}
-      <div className="flex items-center gap-2.5" style={{ minWidth: 180 }}>
-        <div className="w-8 h-8 bg-gray-900 rounded flex items-center justify-center text-white text-xs font-bold tracking-tight select-none">
-          SC
-        </div>
-        <div className="text-xs text-gray-400 leading-tight">
-          Storage Co.
-          <br />
-          Management
-        </div>
+    <div className="sticky top-0 z-50 bg-white border-b border-gray-200 px-4 h-12 flex items-center justify-between gap-2">
+      {/* Left: Brand */}
+      <div className="shrink-0">
+        <span className="text-sm font-semibold text-gray-900 tracking-wide">U Store Self Storage</span>
       </div>
 
       {/* Center: Nav tabs */}
@@ -20,19 +13,19 @@ export default function TopBar({ search, onSearch, onNewCustomer, activePage, on
       </div>
 
       {/* Right: Search + Button */}
-      <div className="flex items-center gap-2" style={{ minWidth: 180, justifyContent: 'flex-end' }}>
+      <div className="flex items-center gap-2 shrink-0">
         {activePage === 'dashboard' && (
           <input
             type="text"
-            placeholder="Search Container / Customer"
+            placeholder="Search container / customer"
             value={search}
             onChange={(e) => onSearch(e.target.value)}
-            className="border border-gray-200 rounded text-xs px-3 py-1.5 outline-none bg-gray-50 focus:bg-white focus:border-gray-400 transition-colors"
-            style={{ width: 220 }}
+            className="hidden md:block border border-gray-200 rounded text-xs px-3 py-1.5 outline-none bg-gray-50 focus:bg-white focus:border-gray-400 transition-colors w-48 lg:w-56"
           />
         )}
         <button className="btn-primary" onClick={onNewCustomer}>
-          + New Customer
+          <span className="hidden sm:inline">+ New Customer</span>
+          <span className="sm:hidden">+</span>
         </button>
       </div>
     </div>

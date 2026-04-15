@@ -67,13 +67,19 @@ export default function App() {
   }
 
   const handleCreate = (formData) => {
-    const displayDate = formData.startDate
-      ? new Date(formData.startDate + 'T00:00:00').toLocaleDateString('en-GB', {
-          day: '2-digit',
-          month: '2-digit',
-          year: '2-digit',
-        })
-      : '—'
+    const displayDate = formatDate(formData.startDate)
+
+    const priceExVat = formData.price ? parseFloat(formData.price) : ''
+    const vatAmount = priceExVat !== '' ? Math.round(priceExVat * 0.2 * 100) / 100 : ''
+    const priceIncVat = priceExVat !== '' ? Math.round(priceExVat * 1.2 * 100) / 100 : ''
+
+    const terminationDate = formData.startDate
+      ? (() => {
+          const d = new Date(formData.startDate + 'T00:00:00')
+          d.setMonth(d.getMonth() + 5)
+          return `Not before ${d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' })}, thereafter not less than 28 days notice to end on a month end`
+        })()
+      : ''
 
     const newRow = {
       id: Date.now(),
@@ -82,10 +88,34 @@ export default function App() {
       date: displayDate,
       status: 'Active',
       hasDocs: true,
+      // contact
       phone: formData.phone,
       email: formData.email,
+      address: formData.address,
+      // unit
+      floor: '',
+      block: '',
+      unitDescription: formData.container || '',
+      // tenancy
+      terminationDate,
+      deposit: formData.deposit || 'None',
+      accessHours: formData.accessHours,
+      // fees
+      monthlyFeeExVat: priceExVat,
+      vatAmount,
+      monthlyFeeIncVat: priceIncVat,
+      paymentTerms: 'payable monthly in advance by direct debit, on the 1st of each month',
+      // insurance
+      insuranceDeclaredValue: formData.declaredValue ? parseFloat(formData.declaredValue) : '',
+      insuranceDisplay: formData.declaredValue
+        ? `No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is £${formData.declaredValue}`
+        : '',
+      // access
       padlock: formData.padlock,
       fob: formData.fob,
+      keysIssued: formData.keys || '',
+      // misc
+      notes: formData.notes,
     }
 
     setRows((prev) =>
@@ -125,10 +155,7 @@ export default function App() {
         {activePage === 'dashboard' && (
           <>
             {showForm && (
-              <div
-                className="grid gap-4 items-start"
-                style={{ gridTemplateColumns: '420px 1fr' }}
-              >
+              <div className="grid gap-4 items-start grid-cols-1 lg:grid-cols-[420px_1fr]">
                 <FormPanel onSubmit={handleCreate} onClose={handleSaveExit} />
                 <OutputPanel
                   created={created}

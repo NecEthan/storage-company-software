@@ -5,7 +5,7 @@ export default function ContainerDetail({ container, onClose }) {
       style={{ background: 'rgba(0,0,0,0.18)' }}
       onClick={(e) => { if (e.target === e.currentTarget) onClose() }}
     >
-      <div className="bg-white h-full flex flex-col border-l border-gray-200" style={{ width: 420 }}>
+      <div className="bg-white h-full flex flex-col border-l border-gray-200 w-full sm:w-[420px]">
 
         {/* Header */}
         <div className="flex items-center justify-between px-4 py-3 border-b border-gray-100 sticky top-0 bg-white z-10">
