@@ -133,6 +133,19 @@ export default function App() {
     setCreatedData(null)
   }
 
+  const handleCustomerButton = () => {
+    if (activePage === 'dashboard' && showForm) {
+      handleSaveExit()
+      return
+    }
+    handleNewCustomer()
+  }
+
+  const handleUpdateContainer = (updatedContainer) => {
+    setRows((prev) => prev.map((r) => (r.id === updatedContainer.id ? { ...r, ...updatedContainer } : r)))
+    setSelectedContainer(updatedContainer)
+  }
+
   const filteredRows = search
     ? rows.filter(
         (r) =>
@@ -144,12 +157,25 @@ export default function App() {
   return (
     <div className="min-h-screen bg-gray-50">
       <TopBar
-        search={search}
-        onSearch={setSearch}
-        onNewCustomer={handleNewCustomer}
+        onCustomerAction={handleCustomerButton}
+        showForm={showForm}
         activePage={activePage}
         onPageChange={setActivePage}
       />
+
+      {activePage === 'dashboard' && !showForm && (
+        <div className="bg-white border-b border-gray-200">
+          <div className="max-w-screen-xl mx-auto px-4 py-3">
+            <input
+              type="text"
+              placeholder="Search customer or container"
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              className="w-full sm:max-w-md border border-gray-200 rounded text-sm px-3 py-2 outline-none bg-gray-50 focus:bg-white focus:border-gray-400 transition-colors"
+            />
+          </div>
+        </div>
+      )}
 
       <div className="max-w-screen-xl mx-auto px-4 py-4 space-y-4">
         {activePage === 'dashboard' && (
@@ -165,11 +191,13 @@ export default function App() {
               </div>
             )}
 
-            <TableDashboard
-              rows={filteredRows}
-              onRowClick={setSelectedContainer}
-              onAddClick={handleNewCustomer}
-            />
+            {!showForm && (
+              <TableDashboard
+                rows={filteredRows}
+                onRowClick={setSelectedContainer}
+                onAddClick={handleNewCustomer}
+              />
+            )}
           </>
         )}
 
@@ -185,6 +213,7 @@ export default function App() {
       {selectedContainer && (
         <ContainerDetail
           container={selectedContainer}
+          onSave={handleUpdateContainer}
           onClose={() => setSelectedContainer(null)}
         />
       )}

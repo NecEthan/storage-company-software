@@ -1,4 +1,6 @@
-export default function TopBar({ search, onSearch, onNewCustomer, activePage, onPageChange }) {
+export default function TopBar({ onCustomerAction, showForm, activePage, onPageChange }) {
+  const showClose = activePage === 'dashboard' && showForm
+
   return (
     <div className="sticky top-0 z-50 bg-white border-b border-gray-200 px-4 h-12 flex items-center justify-between gap-2">
       {/* Left: Brand */}
@@ -12,20 +14,17 @@ export default function TopBar({ search, onSearch, onNewCustomer, activePage, on
         <NavTab label="Site Map" active={activePage === 'sitemap'} onClick={() => onPageChange('sitemap')} />
       </div>
 
-      {/* Right: Search + Button */}
+      {/* Right: Action */}
       <div className="flex items-center gap-2 shrink-0">
-        {activePage === 'dashboard' && (
-          <input
-            type="text"
-            placeholder="Search container / customer"
-            value={search}
-            onChange={(e) => onSearch(e.target.value)}
-            className="hidden md:block border border-gray-200 rounded text-xs px-3 py-1.5 outline-none bg-gray-50 focus:bg-white focus:border-gray-400 transition-colors w-48 lg:w-56"
-          />
-        )}
-        <button className="btn-primary" onClick={onNewCustomer}>
-          <span className="hidden sm:inline">+ New Customer</span>
-          <span className="sm:hidden">+</span>
+        <button className="btn-primary w-[128px] justify-center inline-flex" onClick={onCustomerAction}>
+          {showClose ? (
+            <span>Close</span>
+          ) : (
+            <>
+              <span className="hidden sm:inline">+ New Customer</span>
+              <span className="sm:hidden">+</span>
+            </>
+          )}
         </button>
       </div>
     </div>
