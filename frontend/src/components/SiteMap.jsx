@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import sitePlanImage from '../assets/siteplan.png'
 
 const PLAN_WIDTH = 2339
@@ -157,6 +157,23 @@ const HOTSPOTS = buildHotspots()
 
 export default function SiteMap({ rows, onContainerClick, onAddClick }) {
   const [hoveredId, setHoveredId] = useState(null)
+  const [isMobile, setIsMobile] = useState(false)
+  const [zoom, setZoom] = useState(1)
+
+  useEffect(() => {
+    const mq = window.matchMedia('(max-width: 640px)')
+
+    const apply = (matches) => {
+      setIsMobile(matches)
+      setZoom(matches ? 1.45 : 1)
+    }
+
+    apply(mq.matches)
+    const listener = (event) => apply(event.matches)
+    mq.addEventListener('change', listener)
+
+    return () => mq.removeEventListener('change', listener)
+  }, [])
 
   const rowLookup = useMemo(() => {
     const map = {}
@@ -174,12 +191,13 @@ export default function SiteMap({ rows, onContainerClick, onAddClick }) {
 
   const hoveredSpot = HOTSPOTS.find((spot) => spot.normalized === hoveredId)
   const hoveredRow = hoveredSpot ? rowLookup[hoveredSpot.normalized] : null
+  const mobileMapWidth = Math.round(980 * zoom)
 
   return (
     <div className="bg-white border border-gray-200 rounded-xl overflow-hidden">
-      <div className="flex items-center justify-between px-4 py-3 border-b border-gray-100">
+      <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between px-4 py-3 border-b border-gray-100">
         <h2 className="text-sm font-semibold text-gray-900">Site Map</h2>
-        <div className="flex items-center gap-4">
+        <div className="flex flex-wrap items-center gap-3 sm:gap-4">
           <span className="text-xs text-gray-400">
             {HOTSPOTS.length} container{HOTSPOTS.length !== 1 ? 's' : ''} - {occupiedCount} occupied
           </span>
@@ -187,6 +205,27 @@ export default function SiteMap({ rows, onContainerClick, onAddClick }) {
             <LegendDot color="bg-blue-500" label="Occupied" />
             <LegendDot color="bg-green-500" label="Available" />
           </div>
+          {isMobile && (
+            <div className="ml-auto flex items-center gap-1.5">
+              <button
+                type="button"
+                className="px-2 py-1 text-xs font-semibold border border-gray-300 rounded bg-white"
+                onClick={() => setZoom((z) => Math.max(1, Math.round((z - 0.2) * 10) / 10))}
+                aria-label="Zoom out"
+              >
+                -
+              </button>
+              <span className="text-xs text-gray-500 min-w-10 text-center">{Math.round(zoom * 100)}%</span>
+              <button
+                type="button"
+                className="px-2 py-1 text-xs font-semibold border border-gray-300 rounded bg-white"
+                onClick={() => setZoom((z) => Math.min(2.6, Math.round((z + 0.2) * 10) / 10))}
+                aria-label="Zoom in"
+              >
+                +
+              </button>
+            </div>
+          )}
         </div>
       </div>
 
@@ -194,12 +233,25 @@ export default function SiteMap({ rows, onContainerClick, onAddClick }) {
         <div className="text-xs text-gray-500 min-h-5">
           {hoveredSpot
             ? `${hoveredSpot.label}: ${hoveredRow ? hoveredRow.customer : 'Available'}${hoveredRow ? ` (${hoveredRow.status})` : ''}`
-            : 'Hover a container to preview details. Click to open container info.'}
+            : isMobile
+              ? 'Drag to move around the map and tap any container to open details.'
+              : 'Hover a container to preview details. Click to open container info.'}
         </div>
       </div>
 
       <div className="p-4 pt-2">
-        <div className="relative w-full max-w-[1400px] mx-auto" style={{ aspectRatio: `${PLAN_WIDTH} / ${PLAN_HEIGHT}` }}>
+        <div
+          className={isMobile ? 'overflow-auto rounded-md border border-gray-200 bg-gray-50 p-1' : ''}
+          style={isMobile ? { touchAction: 'pan-x pan-y' } : undefined}
+        >
+          <div
+            className="relative mx-auto w-full max-w-[1400px]"
+            style={
+              isMobile
+                ? { width: `${mobileMapWidth}px`, aspectRatio: `${PLAN_WIDTH} / ${PLAN_HEIGHT}` }
+                : { aspectRatio: `${PLAN_WIDTH} / ${PLAN_HEIGHT}` }
+            }
+          >
           <img
             src={sitePlanImage}
             alt="U Store Sandhurst Site Plan"
@@ -223,6 +275,7 @@ export default function SiteMap({ rows, onContainerClick, onAddClick }) {
                 style={{ left: spot.left, top: spot.top, width: spot.width, height: spot.height }}
                 onMouseEnter={() => setHoveredId(spot.normalized)}
                 onMouseLeave={() => setHoveredId((current) => (current === spot.normalized ? null : current))}
+                onTouchStart={() => setHoveredId(spot.normalized)}
                 onClick={() => {
                   if (row) {
                     onContainerClick(row)
@@ -235,6 +288,7 @@ export default function SiteMap({ rows, onContainerClick, onAddClick }) {
               />
             )
           })}
+          </div>
         </div>
       </div>
     </div>
