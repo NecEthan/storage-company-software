@@ -93,7 +93,7 @@ function buildHotspots() {
     })
   }
 
-  const left = { x: 140, y: 136, w: 444, rowH: 88 }
+  const left = { x: 170, y: 156, w: 444, rowH: 88 }
   LEFT_ROWS.forEach((row, rowIndex) => {
     row.forEach((label, colIndex) => {
       add(label, left.x + colIndex * (left.w / 2), left.y + rowIndex * left.rowH, left.w / 2, left.rowH)
