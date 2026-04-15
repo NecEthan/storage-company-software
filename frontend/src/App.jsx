@@ -5,33 +5,51 @@ import OutputPanel from './components/OutputPanel'
 import TableDashboard from './components/TableDashboard'
 import ContainerDetail from './components/ContainerDetail'
 import SiteMap from './components/SiteMap'
+import mockData from './data/mockData.json'
 
-const INITIAL_ROWS = [
-  {
-    id: 1,
-    container: 'A001',
-    customer: 'John D',
-    date: '12/04/26',
-    status: 'Active',
-    hasDocs: true,
-    phone: '07700 900 111',
-    email: 'johnd@example.com',
-    padlock: 'PL-001',
-    fob: 'FOB-01A',
-  },
-  {
-    id: 2,
-    container: 'A002',
-    customer: 'Sarah M',
-    date: '01/03/26',
-    status: 'Active',
-    hasDocs: true,
-    phone: '07700 900 222',
-    email: 'sarahm@example.com',
-    padlock: 'PL-002',
-    fob: 'FOB-02B',
-  },
-]
+function formatDate(iso) {
+  if (!iso) return '—'
+  return new Date(iso + 'T00:00:00').toLocaleDateString('en-GB', {
+    day: '2-digit',
+    month: '2-digit',
+    year: '2-digit',
+  })
+}
+
+const INITIAL_ROWS = mockData.records.map((r, i) => ({
+  id: i + 1,
+  container: r.unit_number,
+  customer: r.customer_name ?? '',
+  date: formatDate(r.commencement_date),
+  status: r.status === 'active' ? 'Active' : 'Empty',
+  hasDocs: !!r.customer_name,
+  // contact
+  phone: r.customer_phone ?? '',
+  email: r.customer_email ?? '',
+  address: r.customer_address ?? '',
+  // unit
+  floor: r.floor ?? '',
+  block: r.block ?? '',
+  unitDescription: r.unit_description ?? '',
+  // tenancy
+  terminationDate: r.termination_date ?? '',
+  deposit: r.deposit ?? '',
+  accessHours: r.access_hours ?? '',
+  // fees
+  monthlyFeeExVat: r.fees?.monthly_fee_ex_vat ?? '',
+  vatAmount: r.fees?.vat_amount ?? '',
+  monthlyFeeIncVat: r.fees?.monthly_fee_inc_vat ?? '',
+  paymentTerms: r.fees?.payment_terms ?? '',
+  // insurance
+  insuranceDeclaredValue: r.insurance?.declared_value_of_goods ?? '',
+  insuranceDisplay: r.insurance?.display ?? '',
+  // access
+  padlock: r.padlock_fobs?.padlock_number ?? '',
+  fob: r.padlock_fobs?.fob_id ?? '',
+  keysIssued: r.padlock_fobs?.keys_issued ?? '',
+  // misc
+  notes: r.notes ?? '',
+}))
 
 export default function App() {
   const [showForm, setShowForm] = useState(false)

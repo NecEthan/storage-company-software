@@ -1,0 +1,4269 @@
+{
+  "dataset_name": "ustore_sandhurst_dummy_customers",
+  "generated_for": "site map demo",
+  "site_plan_unit_count": 99,
+  "source_basis": {
+    "site_plan": "UStoreSandhurst Site Plan 2025.pdf",
+    "terms": "Terms and Conditions -USS Standard.doc",
+    "cover_sheet": "cover sheet contract.doc"
+  },
+  "records": [
+    {
+      "site_map_label": "A16",
+      "unit_number": "A16",
+      "block": "west_block_1",
+      "floor": "Ground Floor",
+      "unit_description": "A16 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "George Brown",
+      "customer_address": "11 Church Road, Camberley, GU48 BC1",
+      "customer_email": "george.brown@example.com",
+      "customer_phone": "07700000001",
+      "fees": {
+        "monthly_fee_ex_vat": 165,
+        "vat_amount": 33.0,
+        "monthly_fee_inc_vat": 198.0,
+        "display": "\u00a3165.00 per calendar month plus VAT (\u00a3198.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-01-17",
+      "termination_date": "Not before 11 June 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2175,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,175"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 81",
+        "keys_issued": 2,
+        "fob_id": "FOB-1001"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A17",
+      "unit_number": "A17",
+      "block": "west_block_1",
+      "floor": "Ground Floor",
+      "unit_description": "A17 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Harry Davies",
+      "customer_address": "12 Station Road, Frimley, GU49 CD2",
+      "customer_email": "harry.davies@example.com",
+      "customer_phone": "07700000002",
+      "fees": {
+        "monthly_fee_ex_vat": 170,
+        "vat_amount": 34.0,
+        "monthly_fee_inc_vat": 204.0,
+        "display": "\u00a3170.00 per calendar month plus VAT (\u00a3204.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-01-28",
+      "termination_date": "Not before 22 June 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2350,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,350"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 82",
+        "keys_issued": 2,
+        "fob_id": "FOB-1002"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A18",
+      "unit_number": "A18",
+      "block": "west_block_1",
+      "floor": "Ground Floor",
+      "unit_description": "A18 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Jack Roberts",
+      "customer_address": "13 London Road, Crowthorne, GU47 DE3",
+      "customer_email": "jack.roberts@example.com",
+      "customer_phone": "07700000003",
+      "fees": {
+        "monthly_fee_ex_vat": 175,
+        "vat_amount": 35.0,
+        "monthly_fee_inc_vat": 210.0,
+        "display": "\u00a3175.00 per calendar month plus VAT (\u00a3210.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-02-08",
+      "termination_date": "Not before 3 July 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2525,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,525"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 83",
+        "keys_issued": 2,
+        "fob_id": "FOB-1003"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A19",
+      "unit_number": "A19",
+      "block": "west_block_1",
+      "floor": "Ground Floor",
+      "unit_description": "A19 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Noah Walker",
+      "customer_address": "14 Victoria Road, Yateley, GU48 EF4",
+      "customer_email": "noah.walker@example.com",
+      "customer_phone": "07700000004",
+      "fees": {
+        "monthly_fee_ex_vat": 180,
+        "vat_amount": 36.0,
+        "monthly_fee_inc_vat": 216.0,
+        "display": "\u00a3180.00 per calendar month plus VAT (\u00a3216.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-02-19",
+      "termination_date": "Not before 14 July 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2700,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,700"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 84",
+        "keys_issued": 2,
+        "fob_id": "FOB-1004"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A20",
+      "unit_number": "A20",
+      "block": "west_block_1",
+      "floor": "Ground Floor",
+      "unit_description": "A20 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Charlie Green",
+      "customer_address": "15 School Lane, Bracknell, GU49 FG5",
+      "customer_email": "charlie.green@example.com",
+      "customer_phone": "07700000005",
+      "fees": {
+        "monthly_fee_ex_vat": 165,
+        "vat_amount": 33.0,
+        "monthly_fee_inc_vat": 198.0,
+        "display": "\u00a3165.00 per calendar month plus VAT (\u00a3198.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-03-02",
+      "termination_date": "Not before 25 July 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2875,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,875"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 85",
+        "keys_issued": 2,
+        "fob_id": "FOB-1005"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A40",
+      "unit_number": "A40",
+      "block": "west_block_1",
+      "floor": "Ground Floor",
+      "unit_description": "A40 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Jacob Hill",
+      "customer_address": "16 Cedar Avenue, Farnborough, GU47 GH6",
+      "customer_email": "jacob.hill@example.com",
+      "customer_phone": "07700000006",
+      "fees": {
+        "monthly_fee_ex_vat": 165,
+        "vat_amount": 33.0,
+        "monthly_fee_inc_vat": 198.0,
+        "display": "\u00a3165.00 per calendar month plus VAT (\u00a3198.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-03-13",
+      "termination_date": "Not before 5 August 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3050,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,050"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 86",
+        "keys_issued": 2,
+        "fob_id": "FOB-1006"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A41",
+      "unit_number": "A41",
+      "block": "west_block_1",
+      "floor": "Ground Floor",
+      "unit_description": "A41 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Freddie Jones",
+      "customer_address": "17 Oak Lane, Wokingham, GU48 HI7",
+      "customer_email": "freddie.jones@example.com",
+      "customer_phone": "07700000007",
+      "fees": {
+        "monthly_fee_ex_vat": 170,
+        "vat_amount": 34.0,
+        "monthly_fee_inc_vat": 204.0,
+        "display": "\u00a3170.00 per calendar month plus VAT (\u00a3204.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-03-24",
+      "termination_date": "Not before 16 August 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3225,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,225"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 87",
+        "keys_issued": 2,
+        "fob_id": "FOB-1007"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A42",
+      "unit_number": "A42",
+      "block": "west_block_1",
+      "floor": "Ground Floor",
+      "unit_description": "A42 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Thomas Williams",
+      "customer_address": "18 Birch Close, Sandhurst, GU49 IJ8",
+      "customer_email": "thomas.williams@example.com",
+      "customer_phone": "07700000008",
+      "fees": {
+        "monthly_fee_ex_vat": 175,
+        "vat_amount": 35.0,
+        "monthly_fee_inc_vat": 210.0,
+        "display": "\u00a3175.00 per calendar month plus VAT (\u00a3210.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-04-04",
+      "termination_date": "Not before 27 August 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3400,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,400"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 88",
+        "keys_issued": 2,
+        "fob_id": "FOB-1008"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A43",
+      "unit_number": "A43",
+      "block": "west_block_1",
+      "floor": "Ground Floor",
+      "unit_description": "A43 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Theo Evans",
+      "customer_address": "19 Meadow View, Camberley, GU47 JK9",
+      "customer_email": "theo.evans@example.com",
+      "customer_phone": "07700000009",
+      "fees": {
+        "monthly_fee_ex_vat": 180,
+        "vat_amount": 36.0,
+        "monthly_fee_inc_vat": 216.0,
+        "display": "\u00a3180.00 per calendar month plus VAT (\u00a3216.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-04-15",
+      "termination_date": "Not before 7 September 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3575,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,575"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 89",
+        "keys_issued": 2,
+        "fob_id": "FOB-1009"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A44",
+      "unit_number": "A44",
+      "block": "west_block_1",
+      "floor": "Ground Floor",
+      "unit_description": "A44 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Amelia Johnson",
+      "customer_address": "20 Park Road, Frimley, GU48 KL0",
+      "customer_email": "amelia.johnson@example.com",
+      "customer_phone": "07700000010",
+      "fees": {
+        "monthly_fee_ex_vat": 165,
+        "vat_amount": 33.0,
+        "monthly_fee_inc_vat": 198.0,
+        "display": "\u00a3165.00 per calendar month plus VAT (\u00a3198.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-04-26",
+      "termination_date": "Not before 18 September 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3750,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,750"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 90",
+        "keys_issued": 2,
+        "fob_id": "FOB-1010"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A45",
+      "unit_number": "A45",
+      "block": "west_block_1",
+      "floor": "Ground Floor",
+      "unit_description": "A45 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Olivia Wright",
+      "customer_address": "21 The Avenue, Crowthorne, GU49 LM1",
+      "customer_email": "olivia.wright@example.com",
+      "customer_phone": "07700000011",
+      "fees": {
+        "monthly_fee_ex_vat": 170,
+        "vat_amount": 34.0,
+        "monthly_fee_inc_vat": 204.0,
+        "display": "\u00a3170.00 per calendar month plus VAT (\u00a3204.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-05-07",
+      "termination_date": "Not before 29 September 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3925,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,925"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 91",
+        "keys_issued": 2,
+        "fob_id": "FOB-1011"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A02",
+      "unit_number": "A02",
+      "block": "west_block_1",
+      "floor": "First Floor",
+      "unit_description": "A02 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Emily Baker",
+      "customer_address": "22 Queens Road, Yateley, GU47 MN2",
+      "customer_email": "emily.baker@example.com",
+      "customer_phone": "07700000012",
+      "fees": {
+        "monthly_fee_ex_vat": 155,
+        "vat_amount": 31.0,
+        "monthly_fee_inc_vat": 186.0,
+        "display": "\u00a3155.00 per calendar month plus VAT (\u00a3186.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-05-18",
+      "termination_date": "Not before 10 October 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4100,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,100"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 92",
+        "keys_issued": 2,
+        "fob_id": "FOB-1012"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A54",
+      "unit_number": "A54",
+      "block": "west_block_1",
+      "floor": "First Floor",
+      "unit_description": "A54 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Isla Turner",
+      "customer_address": "23 Rectory Lane, Bracknell, GU48 NO3",
+      "customer_email": "isla.turner@example.com",
+      "customer_phone": "07700000013",
+      "fees": {
+        "monthly_fee_ex_vat": 155,
+        "vat_amount": 31.0,
+        "monthly_fee_inc_vat": 186.0,
+        "display": "\u00a3155.00 per calendar month plus VAT (\u00a3186.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-05-29",
+      "termination_date": "Not before 21 October 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4275,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,275"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 93",
+        "keys_issued": 2,
+        "fob_id": "FOB-1013"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A53",
+      "unit_number": "A53",
+      "block": "west_block_1",
+      "floor": "First Floor",
+      "unit_description": "A53 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Ava Taylor",
+      "customer_address": "24 Mill Lane, Farnborough, GU49 OP4",
+      "customer_email": "ava.taylor@example.com",
+      "customer_phone": "07700000014",
+      "fees": {
+        "monthly_fee_ex_vat": 150,
+        "vat_amount": 30.0,
+        "monthly_fee_inc_vat": 180.0,
+        "display": "\u00a3150.00 per calendar month plus VAT (\u00a3180.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-06-09",
+      "termination_date": "Not before 1 November 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4450,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,450"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 94",
+        "keys_issued": 2,
+        "fob_id": "FOB-1014"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A52",
+      "unit_number": "A52",
+      "block": "west_block_1",
+      "floor": "First Floor",
+      "unit_description": "A52 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Sophia Wilson",
+      "customer_address": "25 Horsham Road, Wokingham, GU47 PQ5",
+      "customer_email": "sophia.wilson@example.com",
+      "customer_phone": "07700000015",
+      "fees": {
+        "monthly_fee_ex_vat": 145,
+        "vat_amount": 29.0,
+        "monthly_fee_inc_vat": 174.0,
+        "display": "\u00a3145.00 per calendar month plus VAT (\u00a3174.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-06-20",
+      "termination_date": "Not before 12 November 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4625,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,625"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 95",
+        "keys_issued": 2,
+        "fob_id": "FOB-1015"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A51",
+      "unit_number": "A51",
+      "block": "west_block_1",
+      "floor": "First Floor",
+      "unit_description": "A51 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Grace Thomas",
+      "customer_address": "26 York Road, Sandhurst, GU48 QR6",
+      "customer_email": "grace.thomas@example.com",
+      "customer_phone": "07700000016",
+      "fees": {
+        "monthly_fee_ex_vat": 160,
+        "vat_amount": 32.0,
+        "monthly_fee_inc_vat": 192.0,
+        "display": "\u00a3160.00 per calendar month plus VAT (\u00a3192.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-07-01",
+      "termination_date": "Not before 23 November 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4800,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,800"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 96",
+        "keys_issued": 2,
+        "fob_id": "FOB-1016"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A50",
+      "unit_number": "A50",
+      "block": "west_block_1",
+      "floor": "First Floor",
+      "unit_description": "A50 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Lily Lewis",
+      "customer_address": "27 Manor Close, Camberley, GU49 RS7",
+      "customer_email": "lily.lewis@example.com",
+      "customer_phone": "07700000017",
+      "fees": {
+        "monthly_fee_ex_vat": 155,
+        "vat_amount": 31.0,
+        "monthly_fee_inc_vat": 186.0,
+        "display": "\u00a3155.00 per calendar month plus VAT (\u00a3186.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-07-12",
+      "termination_date": "Not before 4 December 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4975,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,975"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 97",
+        "keys_issued": 2,
+        "fob_id": "FOB-1017"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A49",
+      "unit_number": "A49",
+      "block": "west_block_1",
+      "floor": "First Floor",
+      "unit_description": "A49 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Ella Hall",
+      "customer_address": "28 High Street, Frimley, GU47 ST8",
+      "customer_email": "ella.hall@example.com",
+      "customer_phone": "07700000018",
+      "fees": {
+        "monthly_fee_ex_vat": 150,
+        "vat_amount": 30.0,
+        "monthly_fee_inc_vat": 180.0,
+        "display": "\u00a3150.00 per calendar month plus VAT (\u00a3180.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-07-23",
+      "termination_date": "Not before 15 December 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5150,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,150"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 98",
+        "keys_issued": 2,
+        "fob_id": "FOB-1018"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A48",
+      "unit_number": "A48",
+      "block": "west_block_1",
+      "floor": "First Floor",
+      "unit_description": "A48 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Mia Adams",
+      "customer_address": "29 Church Road, Crowthorne, GU48 TU9",
+      "customer_email": "mia.adams@example.com",
+      "customer_phone": "07700000019",
+      "fees": {
+        "monthly_fee_ex_vat": 145,
+        "vat_amount": 29.0,
+        "monthly_fee_inc_vat": 174.0,
+        "display": "\u00a3145.00 per calendar month plus VAT (\u00a3174.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-08-03",
+      "termination_date": "Not before 26 December 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5325,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,325"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 99",
+        "keys_issued": 2,
+        "fob_id": "FOB-1019"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A47",
+      "unit_number": "A47",
+      "block": "west_block_1",
+      "floor": "First Floor",
+      "unit_description": "A47 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "James Smith",
+      "customer_address": "30 Station Road, Yateley, GU49 AB0",
+      "customer_email": "james.smith@example.com",
+      "customer_phone": "07700000020",
+      "fees": {
+        "monthly_fee_ex_vat": 160,
+        "vat_amount": 32.0,
+        "monthly_fee_inc_vat": 192.0,
+        "display": "\u00a3160.00 per calendar month plus VAT (\u00a3192.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-08-14",
+      "termination_date": "Not before 6 January 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5500,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,500"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 100",
+        "keys_issued": 2,
+        "fob_id": "FOB-1020"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A46",
+      "unit_number": "A46",
+      "block": "west_block_1",
+      "floor": "First Floor",
+      "unit_description": "A46 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "William Brown",
+      "customer_address": "31 London Road, Bracknell, GU47 BC1",
+      "customer_email": "william.brown@example.com",
+      "customer_phone": "07700000021",
+      "fees": {
+        "monthly_fee_ex_vat": 155,
+        "vat_amount": 31.0,
+        "monthly_fee_inc_vat": 186.0,
+        "display": "\u00a3155.00 per calendar month plus VAT (\u00a3186.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-08-25",
+      "termination_date": "Not before 17 January 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5675,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,675"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 101",
+        "keys_issued": 2,
+        "fob_id": "FOB-1021"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B16",
+      "unit_number": "B16",
+      "block": "west_block_1",
+      "floor": "First Floor",
+      "unit_description": "B16 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Henry Davies",
+      "customer_address": "32 Victoria Road, Farnborough, GU48 CD2",
+      "customer_email": "henry.davies@example.com",
+      "customer_phone": "07700000022",
+      "fees": {
+        "monthly_fee_ex_vat": 120,
+        "vat_amount": 24.0,
+        "monthly_fee_inc_vat": 144.0,
+        "display": "\u00a3120.00 per calendar month plus VAT (\u00a3144.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-09-05",
+      "termination_date": "Not before 28 January 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5850,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,850"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 102",
+        "keys_issued": 2,
+        "fob_id": "FOB-1022"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B17",
+      "unit_number": "B17",
+      "block": "west_block_1",
+      "floor": "First Floor",
+      "unit_description": "B17 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Leo Roberts",
+      "customer_address": "33 School Lane, Wokingham, GU49 DE3",
+      "customer_email": "leo.roberts@example.com",
+      "customer_phone": "07700000023",
+      "fees": {
+        "monthly_fee_ex_vat": 125,
+        "vat_amount": 25.0,
+        "monthly_fee_inc_vat": 150.0,
+        "display": "\u00a3125.00 per calendar month plus VAT (\u00a3150.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-09-16",
+      "termination_date": "Not before 8 February 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2025,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,025"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 103",
+        "keys_issued": 2,
+        "fob_id": "FOB-1023"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A21",
+      "unit_number": "A21",
+      "block": "west_block_2",
+      "floor": "Ground Floor",
+      "unit_description": "A21 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Oscar Walker",
+      "customer_address": "34 Cedar Avenue, Sandhurst, GU47 EF4",
+      "customer_email": "oscar.walker@example.com",
+      "customer_phone": "07700000024",
+      "fees": {
+        "monthly_fee_ex_vat": 170,
+        "vat_amount": 34.0,
+        "monthly_fee_inc_vat": 204.0,
+        "display": "\u00a3170.00 per calendar month plus VAT (\u00a3204.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-09-27",
+      "termination_date": "Not before 19 February 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2200,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,200"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 104",
+        "keys_issued": 2,
+        "fob_id": "FOB-1024"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A22",
+      "unit_number": "A22",
+      "block": "west_block_2",
+      "floor": "Ground Floor",
+      "unit_description": "A22 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Arthur Green",
+      "customer_address": "35 Oak Lane, Camberley, GU48 FG5",
+      "customer_email": "arthur.green@example.com",
+      "customer_phone": "07700000025",
+      "fees": {
+        "monthly_fee_ex_vat": 175,
+        "vat_amount": 35.0,
+        "monthly_fee_inc_vat": 210.0,
+        "display": "\u00a3175.00 per calendar month plus VAT (\u00a3210.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-10-08",
+      "termination_date": "Not before 2 March 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2375,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,375"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 105",
+        "keys_issued": 2,
+        "fob_id": "FOB-1025"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A1",
+      "unit_number": "A1",
+      "block": "west_block_2",
+      "floor": "Ground Floor",
+      "unit_description": "A1 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Lucas Hill",
+      "customer_address": "36 Birch Close, Frimley, GU49 GH6",
+      "customer_email": "lucas.hill@example.com",
+      "customer_phone": "07700000026",
+      "fees": {
+        "monthly_fee_ex_vat": 170,
+        "vat_amount": 34.0,
+        "monthly_fee_inc_vat": 204.0,
+        "display": "\u00a3170.00 per calendar month plus VAT (\u00a3204.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-10-19",
+      "termination_date": "Not before 13 March 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2550,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,550"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 106",
+        "keys_issued": 2,
+        "fob_id": "FOB-1026"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A2",
+      "unit_number": "A2",
+      "block": "west_block_2",
+      "floor": "Ground Floor",
+      "unit_description": "A2 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Isaac Jones",
+      "customer_address": "37 Meadow View, Crowthorne, GU47 HI7",
+      "customer_email": "isaac.jones@example.com",
+      "customer_phone": "07700000027",
+      "fees": {
+        "monthly_fee_ex_vat": 175,
+        "vat_amount": 35.0,
+        "monthly_fee_inc_vat": 210.0,
+        "display": "\u00a3175.00 per calendar month plus VAT (\u00a3210.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-10-30",
+      "termination_date": "Not before 24 March 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2725,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,725"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 107",
+        "keys_issued": 2,
+        "fob_id": "FOB-1027"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A35",
+      "unit_number": "A35",
+      "block": "west_block_2",
+      "floor": "Ground Floor",
+      "unit_description": "A35 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Archie Williams",
+      "customer_address": "38 Park Road, Yateley, GU48 IJ8",
+      "customer_email": "archie.williams@example.com",
+      "customer_phone": "07700000028",
+      "fees": {
+        "monthly_fee_ex_vat": 180,
+        "vat_amount": 36.0,
+        "monthly_fee_inc_vat": 216.0,
+        "display": "\u00a3180.00 per calendar month plus VAT (\u00a3216.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-01-14",
+      "termination_date": "Not before 8 June 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2900,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,900"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 108",
+        "keys_issued": 2,
+        "fob_id": "FOB-1028"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A36",
+      "unit_number": "A36",
+      "block": "west_block_2",
+      "floor": "Ground Floor",
+      "unit_description": "A36 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Ethan Evans",
+      "customer_address": "39 The Avenue, Bracknell, GU49 JK9",
+      "customer_email": "ethan.evans@example.com",
+      "customer_phone": "07700000029",
+      "fees": {
+        "monthly_fee_ex_vat": 165,
+        "vat_amount": 33.0,
+        "monthly_fee_inc_vat": 198.0,
+        "display": "\u00a3165.00 per calendar month plus VAT (\u00a3198.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-01-25",
+      "termination_date": "Not before 19 June 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3075,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,075"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 109",
+        "keys_issued": 2,
+        "fob_id": "FOB-1029"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A23",
+      "unit_number": "A23",
+      "block": "west_block_2",
+      "floor": "Ground Floor",
+      "unit_description": "A23 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Chloe Johnson",
+      "customer_address": "40 Queens Road, Farnborough, GU47 KL0",
+      "customer_email": "chloe.johnson@example.com",
+      "customer_phone": "07700000030",
+      "fees": {
+        "monthly_fee_ex_vat": 180,
+        "vat_amount": 36.0,
+        "monthly_fee_inc_vat": 216.0,
+        "display": "\u00a3180.00 per calendar month plus VAT (\u00a3216.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-02-05",
+      "termination_date": "Not before 30 June 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3250,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,250"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 110",
+        "keys_issued": 2,
+        "fob_id": "FOB-1030"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A24",
+      "unit_number": "A24",
+      "block": "west_block_2",
+      "floor": "Ground Floor",
+      "unit_description": "A24 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Evie Wright",
+      "customer_address": "41 Rectory Lane, Wokingham, GU48 LM1",
+      "customer_email": "evie.wright@example.com",
+      "customer_phone": "07700000031",
+      "fees": {
+        "monthly_fee_ex_vat": 165,
+        "vat_amount": 33.0,
+        "monthly_fee_inc_vat": 198.0,
+        "display": "\u00a3165.00 per calendar month plus VAT (\u00a3198.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-02-16",
+      "termination_date": "Not before 11 July 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3425,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,425"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 111",
+        "keys_issued": 2,
+        "fob_id": "FOB-1031"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A27",
+      "unit_number": "A27",
+      "block": "west_block_2",
+      "floor": "Ground Floor",
+      "unit_description": "A27 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Sophie Baker",
+      "customer_address": "42 Mill Lane, Sandhurst, GU49 MN2",
+      "customer_email": "sophie.baker@example.com",
+      "customer_phone": "07700000032",
+      "fees": {
+        "monthly_fee_ex_vat": 180,
+        "vat_amount": 36.0,
+        "monthly_fee_inc_vat": 216.0,
+        "display": "\u00a3180.00 per calendar month plus VAT (\u00a3216.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-02-27",
+      "termination_date": "Not before 22 July 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3600,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,600"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 112",
+        "keys_issued": 2,
+        "fob_id": "FOB-1032"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A32",
+      "unit_number": "A32",
+      "block": "west_block_2",
+      "floor": "Ground Floor",
+      "unit_description": "A32 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Rosie Turner",
+      "customer_address": "43 Horsham Road, Camberley, GU47 NO3",
+      "customer_email": "rosie.turner@example.com",
+      "customer_phone": "07700000033",
+      "fees": {
+        "monthly_fee_ex_vat": 165,
+        "vat_amount": 33.0,
+        "monthly_fee_inc_vat": 198.0,
+        "display": "\u00a3165.00 per calendar month plus VAT (\u00a3198.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-03-10",
+      "termination_date": "Not before 2 August 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3775,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,775"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 113",
+        "keys_issued": 2,
+        "fob_id": "FOB-1033"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A39",
+      "unit_number": "A39",
+      "block": "west_block_2",
+      "floor": "First Floor",
+      "unit_description": "A39 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Poppy Taylor",
+      "customer_address": "44 York Road, Frimley, GU48 OP4",
+      "customer_email": "poppy.taylor@example.com",
+      "customer_phone": "07700000034",
+      "fees": {
+        "monthly_fee_ex_vat": 160,
+        "vat_amount": 32.0,
+        "monthly_fee_inc_vat": 192.0,
+        "display": "\u00a3160.00 per calendar month plus VAT (\u00a3192.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-03-21",
+      "termination_date": "Not before 13 August 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3950,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,950"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 114",
+        "keys_issued": 2,
+        "fob_id": "FOB-1034"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A38",
+      "unit_number": "A38",
+      "block": "west_block_2",
+      "floor": "First Floor",
+      "unit_description": "A38 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Matilda Wilson",
+      "customer_address": "45 Manor Close, Crowthorne, GU49 PQ5",
+      "customer_email": "matilda.wilson@example.com",
+      "customer_phone": "07700000035",
+      "fees": {
+        "monthly_fee_ex_vat": 155,
+        "vat_amount": 31.0,
+        "monthly_fee_inc_vat": 186.0,
+        "display": "\u00a3155.00 per calendar month plus VAT (\u00a3186.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-04-01",
+      "termination_date": "Not before 24 August 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4125,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,125"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 115",
+        "keys_issued": 2,
+        "fob_id": "FOB-1035"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A37",
+      "unit_number": "A37",
+      "block": "west_block_2",
+      "floor": "First Floor",
+      "unit_description": "A37 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Ruby Thomas",
+      "customer_address": "46 High Street, Yateley, GU47 QR6",
+      "customer_email": "ruby.thomas@example.com",
+      "customer_phone": "07700000036",
+      "fees": {
+        "monthly_fee_ex_vat": 150,
+        "vat_amount": 30.0,
+        "monthly_fee_inc_vat": 180.0,
+        "display": "\u00a3150.00 per calendar month plus VAT (\u00a3180.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-04-12",
+      "termination_date": "Not before 4 September 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4300,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,300"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 116",
+        "keys_issued": 2,
+        "fob_id": "FOB-1036"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A3",
+      "unit_number": "A3",
+      "block": "west_block_2",
+      "floor": "First Floor",
+      "unit_description": "A3 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Alice Lewis",
+      "customer_address": "47 Church Road, Bracknell, GU48 RS7",
+      "customer_email": "alice.lewis@example.com",
+      "customer_phone": "07700000037",
+      "fees": {
+        "monthly_fee_ex_vat": 160,
+        "vat_amount": 32.0,
+        "monthly_fee_inc_vat": 192.0,
+        "display": "\u00a3160.00 per calendar month plus VAT (\u00a3192.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-04-23",
+      "termination_date": "Not before 15 September 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4475,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,475"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 117",
+        "keys_issued": 2,
+        "fob_id": "FOB-1037"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A5",
+      "unit_number": "A5",
+      "block": "west_block_2",
+      "floor": "First Floor",
+      "unit_description": "A5 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Jessica Hall",
+      "customer_address": "48 Station Road, Farnborough, GU49 ST8",
+      "customer_email": "jessica.hall@example.com",
+      "customer_phone": "07700000038",
+      "fees": {
+        "monthly_fee_ex_vat": 150,
+        "vat_amount": 30.0,
+        "monthly_fee_inc_vat": 180.0,
+        "display": "\u00a3150.00 per calendar month plus VAT (\u00a3180.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-05-04",
+      "termination_date": "Not before 26 September 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4650,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,650"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 118",
+        "keys_issued": 2,
+        "fob_id": "FOB-1038"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A4",
+      "unit_number": "A4",
+      "block": "west_block_2",
+      "floor": "First Floor",
+      "unit_description": "A4 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Lucy Adams",
+      "customer_address": "49 London Road, Wokingham, GU47 TU9",
+      "customer_email": "lucy.adams@example.com",
+      "customer_phone": "07700000039",
+      "fees": {
+        "monthly_fee_ex_vat": 145,
+        "vat_amount": 29.0,
+        "monthly_fee_inc_vat": 174.0,
+        "display": "\u00a3145.00 per calendar month plus VAT (\u00a3174.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-05-15",
+      "termination_date": "Not before 7 October 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4825,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,825"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 119",
+        "keys_issued": 2,
+        "fob_id": "FOB-1039"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A33",
+      "unit_number": "A33",
+      "block": "west_block_2",
+      "floor": "First Floor",
+      "unit_description": "A33 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Oliver Smith",
+      "customer_address": "50 Victoria Road, Sandhurst, GU48 AB0",
+      "customer_email": "oliver.smith@example.com",
+      "customer_phone": "07700000040",
+      "fees": {
+        "monthly_fee_ex_vat": 150,
+        "vat_amount": 30.0,
+        "monthly_fee_inc_vat": 180.0,
+        "display": "\u00a3150.00 per calendar month plus VAT (\u00a3180.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-05-26",
+      "termination_date": "Not before 18 October 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5000,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,000"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 120",
+        "keys_issued": 2,
+        "fob_id": "FOB-1040"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A34",
+      "unit_number": "A34",
+      "block": "west_block_2",
+      "floor": "First Floor",
+      "unit_description": "A34 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "George Brown",
+      "customer_address": "51 School Lane, Camberley, GU49 BC1",
+      "customer_email": "george.brown@example.com",
+      "customer_phone": "07700000041",
+      "fees": {
+        "monthly_fee_ex_vat": 155,
+        "vat_amount": 31.0,
+        "monthly_fee_inc_vat": 186.0,
+        "display": "\u00a3155.00 per calendar month plus VAT (\u00a3186.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-06-06",
+      "termination_date": "Not before 29 October 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5175,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,175"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 121",
+        "keys_issued": 2,
+        "fob_id": "FOB-1041"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A25",
+      "unit_number": "A25",
+      "block": "west_block_2",
+      "floor": "First Floor",
+      "unit_description": "A25 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Harry Davies",
+      "customer_address": "52 Cedar Avenue, Frimley, GU47 CD2",
+      "customer_email": "harry.davies@example.com",
+      "customer_phone": "07700000042",
+      "fees": {
+        "monthly_fee_ex_vat": 150,
+        "vat_amount": 30.0,
+        "monthly_fee_inc_vat": 180.0,
+        "display": "\u00a3150.00 per calendar month plus VAT (\u00a3180.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-06-17",
+      "termination_date": "Not before 9 November 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5350,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,350"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 122",
+        "keys_issued": 2,
+        "fob_id": "FOB-1042"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A31",
+      "unit_number": "A31",
+      "block": "west_block_2",
+      "floor": "First Floor",
+      "unit_description": "A31 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Jack Roberts",
+      "customer_address": "53 Oak Lane, Crowthorne, GU48 DE3",
+      "customer_email": "jack.roberts@example.com",
+      "customer_phone": "07700000043",
+      "fees": {
+        "monthly_fee_ex_vat": 160,
+        "vat_amount": 32.0,
+        "monthly_fee_inc_vat": 192.0,
+        "display": "\u00a3160.00 per calendar month plus VAT (\u00a3192.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-06-28",
+      "termination_date": "Not before 20 November 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5525,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,525"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 123",
+        "keys_issued": 2,
+        "fob_id": "FOB-1043"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A6",
+      "unit_number": "A6",
+      "block": "central_block",
+      "floor": "Ground Floor",
+      "unit_description": "A6 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Noah Walker",
+      "customer_address": "54 Birch Close, Yateley, GU49 EF4",
+      "customer_email": "noah.walker@example.com",
+      "customer_phone": "07700000044",
+      "fees": {
+        "monthly_fee_ex_vat": 175,
+        "vat_amount": 35.0,
+        "monthly_fee_inc_vat": 210.0,
+        "display": "\u00a3175.00 per calendar month plus VAT (\u00a3210.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-07-09",
+      "termination_date": "Not before 1 December 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5700,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,700"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 124",
+        "keys_issued": 2,
+        "fob_id": "FOB-1044"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A7",
+      "unit_number": "A7",
+      "block": "central_block",
+      "floor": "Ground Floor",
+      "unit_description": "A7 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Charlie Green",
+      "customer_address": "55 Meadow View, Bracknell, GU47 FG5",
+      "customer_email": "charlie.green@example.com",
+      "customer_phone": "07700000045",
+      "fees": {
+        "monthly_fee_ex_vat": 180,
+        "vat_amount": 36.0,
+        "monthly_fee_inc_vat": 216.0,
+        "display": "\u00a3180.00 per calendar month plus VAT (\u00a3216.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-07-20",
+      "termination_date": "Not before 12 December 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5875,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,875"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 125",
+        "keys_issued": 2,
+        "fob_id": "FOB-1045"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A8",
+      "unit_number": "A8",
+      "block": "central_block",
+      "floor": "Ground Floor",
+      "unit_description": "A8 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Jacob Hill",
+      "customer_address": "56 Park Road, Farnborough, GU48 GH6",
+      "customer_email": "jacob.hill@example.com",
+      "customer_phone": "07700000046",
+      "fees": {
+        "monthly_fee_ex_vat": 165,
+        "vat_amount": 33.0,
+        "monthly_fee_inc_vat": 198.0,
+        "display": "\u00a3165.00 per calendar month plus VAT (\u00a3198.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-07-31",
+      "termination_date": "Not before 23 December 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2050,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,050"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 126",
+        "keys_issued": 2,
+        "fob_id": "FOB-1046"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A9",
+      "unit_number": "A9",
+      "block": "central_block",
+      "floor": "Ground Floor",
+      "unit_description": "A9 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Freddie Jones",
+      "customer_address": "57 The Avenue, Wokingham, GU49 HI7",
+      "customer_email": "freddie.jones@example.com",
+      "customer_phone": "07700000047",
+      "fees": {
+        "monthly_fee_ex_vat": 170,
+        "vat_amount": 34.0,
+        "monthly_fee_inc_vat": 204.0,
+        "display": "\u00a3170.00 per calendar month plus VAT (\u00a3204.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-08-11",
+      "termination_date": "Not before 3 January 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2225,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,225"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 127",
+        "keys_issued": 2,
+        "fob_id": "FOB-1047"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A14",
+      "unit_number": "A14",
+      "block": "central_block",
+      "floor": "Ground Floor",
+      "unit_description": "A14 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Thomas Williams",
+      "customer_address": "58 Queens Road, Sandhurst, GU47 IJ8",
+      "customer_email": "thomas.williams@example.com",
+      "customer_phone": "07700000048",
+      "fees": {
+        "monthly_fee_ex_vat": 175,
+        "vat_amount": 35.0,
+        "monthly_fee_inc_vat": 210.0,
+        "display": "\u00a3175.00 per calendar month plus VAT (\u00a3210.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-08-22",
+      "termination_date": "Not before 14 January 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2400,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,400"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 128",
+        "keys_issued": 2,
+        "fob_id": "FOB-1048"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A13",
+      "unit_number": "A13",
+      "block": "central_block",
+      "floor": "Ground Floor",
+      "unit_description": "A13 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Theo Evans",
+      "customer_address": "59 Rectory Lane, Camberley, GU48 JK9",
+      "customer_email": "theo.evans@example.com",
+      "customer_phone": "07700000049",
+      "fees": {
+        "monthly_fee_ex_vat": 170,
+        "vat_amount": 34.0,
+        "monthly_fee_inc_vat": 204.0,
+        "display": "\u00a3170.00 per calendar month plus VAT (\u00a3204.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-09-02",
+      "termination_date": "Not before 25 January 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2575,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,575"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 129",
+        "keys_issued": 2,
+        "fob_id": "FOB-1049"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A12",
+      "unit_number": "A12",
+      "block": "central_block",
+      "floor": "Ground Floor",
+      "unit_description": "A12 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Amelia Johnson",
+      "customer_address": "60 Mill Lane, Frimley, GU49 KL0",
+      "customer_email": "amelia.johnson@example.com",
+      "customer_phone": "07700000050",
+      "fees": {
+        "monthly_fee_ex_vat": 165,
+        "vat_amount": 33.0,
+        "monthly_fee_inc_vat": 198.0,
+        "display": "\u00a3165.00 per calendar month plus VAT (\u00a3198.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-09-13",
+      "termination_date": "Not before 5 February 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2750,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,750"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 130",
+        "keys_issued": 2,
+        "fob_id": "FOB-1050"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A26",
+      "unit_number": "A26",
+      "block": "central_block",
+      "floor": "Ground Floor",
+      "unit_description": "A26 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Olivia Wright",
+      "customer_address": "61 Horsham Road, Crowthorne, GU47 LM1",
+      "customer_email": "olivia.wright@example.com",
+      "customer_phone": "07700000051",
+      "fees": {
+        "monthly_fee_ex_vat": 175,
+        "vat_amount": 35.0,
+        "monthly_fee_inc_vat": 210.0,
+        "display": "\u00a3175.00 per calendar month plus VAT (\u00a3210.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-09-24",
+      "termination_date": "Not before 16 February 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2925,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,925"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 131",
+        "keys_issued": 2,
+        "fob_id": "FOB-1051"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A15",
+      "unit_number": "A15",
+      "block": "central_block",
+      "floor": "Ground Floor",
+      "unit_description": "A15 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Emily Baker",
+      "customer_address": "62 York Road, Yateley, GU48 MN2",
+      "customer_email": "emily.baker@example.com",
+      "customer_phone": "07700000052",
+      "fees": {
+        "monthly_fee_ex_vat": 180,
+        "vat_amount": 36.0,
+        "monthly_fee_inc_vat": 216.0,
+        "display": "\u00a3180.00 per calendar month plus VAT (\u00a3216.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-10-05",
+      "termination_date": "Not before 27 February 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3100,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,100"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 132",
+        "keys_issued": 2,
+        "fob_id": "FOB-1052"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B15",
+      "unit_number": "B15",
+      "block": "central_block",
+      "floor": "First Floor",
+      "unit_description": "B15 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Isla Turner",
+      "customer_address": "63 Manor Close, Bracknell, GU49 NO3",
+      "customer_email": "isla.turner@example.com",
+      "customer_phone": "07700000053",
+      "fees": {
+        "monthly_fee_ex_vat": 135,
+        "vat_amount": 27.0,
+        "monthly_fee_inc_vat": 162.0,
+        "display": "\u00a3135.00 per calendar month plus VAT (\u00a3162.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-10-16",
+      "termination_date": "Not before 10 March 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3275,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,275"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 133",
+        "keys_issued": 2,
+        "fob_id": "FOB-1053"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B14",
+      "unit_number": "B14",
+      "block": "central_block",
+      "floor": "First Floor",
+      "unit_description": "B14 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Ava Taylor",
+      "customer_address": "64 High Street, Farnborough, GU47 OP4",
+      "customer_email": "ava.taylor@example.com",
+      "customer_phone": "07700000054",
+      "fees": {
+        "monthly_fee_ex_vat": 130,
+        "vat_amount": 26.0,
+        "monthly_fee_inc_vat": 156.0,
+        "display": "\u00a3130.00 per calendar month plus VAT (\u00a3156.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-10-27",
+      "termination_date": "Not before 21 March 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3450,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,450"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 134",
+        "keys_issued": 2,
+        "fob_id": "FOB-1054"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B13",
+      "unit_number": "B13",
+      "block": "central_block",
+      "floor": "First Floor",
+      "unit_description": "B13 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Sophia Wilson",
+      "customer_address": "65 Church Road, Wokingham, GU48 PQ5",
+      "customer_email": "sophia.wilson@example.com",
+      "customer_phone": "07700000055",
+      "fees": {
+        "monthly_fee_ex_vat": 125,
+        "vat_amount": 25.0,
+        "monthly_fee_inc_vat": 150.0,
+        "display": "\u00a3125.00 per calendar month plus VAT (\u00a3150.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-01-11",
+      "termination_date": "Not before 5 June 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3625,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,625"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 135",
+        "keys_issued": 2,
+        "fob_id": "FOB-1055"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B12",
+      "unit_number": "B12",
+      "block": "central_block",
+      "floor": "First Floor",
+      "unit_description": "B12 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Grace Thomas",
+      "customer_address": "66 Station Road, Sandhurst, GU49 QR6",
+      "customer_email": "grace.thomas@example.com",
+      "customer_phone": "07700000056",
+      "fees": {
+        "monthly_fee_ex_vat": 120,
+        "vat_amount": 24.0,
+        "monthly_fee_inc_vat": 144.0,
+        "display": "\u00a3120.00 per calendar month plus VAT (\u00a3144.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-01-22",
+      "termination_date": "Not before 16 June 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3800,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,800"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 136",
+        "keys_issued": 2,
+        "fob_id": "FOB-1056"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B11",
+      "unit_number": "B11",
+      "block": "central_block",
+      "floor": "First Floor",
+      "unit_description": "B11 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Lily Lewis",
+      "customer_address": "67 London Road, Camberley, GU47 RS7",
+      "customer_email": "lily.lewis@example.com",
+      "customer_phone": "07700000057",
+      "fees": {
+        "monthly_fee_ex_vat": 135,
+        "vat_amount": 27.0,
+        "monthly_fee_inc_vat": 162.0,
+        "display": "\u00a3135.00 per calendar month plus VAT (\u00a3162.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-02-02",
+      "termination_date": "Not before 27 June 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3975,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,975"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 137",
+        "keys_issued": 2,
+        "fob_id": "FOB-1057"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B10",
+      "unit_number": "B10",
+      "block": "central_block",
+      "floor": "First Floor",
+      "unit_description": "B10 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Ella Hall",
+      "customer_address": "68 Victoria Road, Frimley, GU48 ST8",
+      "customer_email": "ella.hall@example.com",
+      "customer_phone": "07700000058",
+      "fees": {
+        "monthly_fee_ex_vat": 130,
+        "vat_amount": 26.0,
+        "monthly_fee_inc_vat": 156.0,
+        "display": "\u00a3130.00 per calendar month plus VAT (\u00a3156.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-02-13",
+      "termination_date": "Not before 8 July 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4150,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,150"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 138",
+        "keys_issued": 2,
+        "fob_id": "FOB-1058"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B9",
+      "unit_number": "B9",
+      "block": "central_block",
+      "floor": "First Floor",
+      "unit_description": "B9 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Mia Adams",
+      "customer_address": "69 School Lane, Crowthorne, GU49 TU9",
+      "customer_email": "mia.adams@example.com",
+      "customer_phone": "07700000059",
+      "fees": {
+        "monthly_fee_ex_vat": 125,
+        "vat_amount": 25.0,
+        "monthly_fee_inc_vat": 150.0,
+        "display": "\u00a3125.00 per calendar month plus VAT (\u00a3150.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-02-24",
+      "termination_date": "Not before 19 July 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4325,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,325"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 139",
+        "keys_issued": 2,
+        "fob_id": "FOB-1059"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B18",
+      "unit_number": "B18",
+      "block": "central_block",
+      "floor": "First Floor",
+      "unit_description": "B18 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "James Smith",
+      "customer_address": "70 Cedar Avenue, Yateley, GU47 AB0",
+      "customer_email": "james.smith@example.com",
+      "customer_phone": "07700000060",
+      "fees": {
+        "monthly_fee_ex_vat": 130,
+        "vat_amount": 26.0,
+        "monthly_fee_inc_vat": 156.0,
+        "display": "\u00a3130.00 per calendar month plus VAT (\u00a3156.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-03-07",
+      "termination_date": "Not before 30 July 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4500,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,500"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 140",
+        "keys_issued": 2,
+        "fob_id": "FOB-1060"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B19",
+      "unit_number": "B19",
+      "block": "central_block",
+      "floor": "First Floor",
+      "unit_description": "B19 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "William Brown",
+      "customer_address": "71 Oak Lane, Bracknell, GU48 BC1",
+      "customer_email": "william.brown@example.com",
+      "customer_phone": "07700000061",
+      "fees": {
+        "monthly_fee_ex_vat": 135,
+        "vat_amount": 27.0,
+        "monthly_fee_inc_vat": 162.0,
+        "display": "\u00a3135.00 per calendar month plus VAT (\u00a3162.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-03-18",
+      "termination_date": "Not before 10 August 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4675,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,675"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 141",
+        "keys_issued": 2,
+        "fob_id": "FOB-1061"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C17",
+      "unit_number": "C17",
+      "block": "east_block",
+      "floor": "Ground Floor",
+      "unit_description": "C17 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Henry Davies",
+      "customer_address": "72 Birch Close, Farnborough, GU49 CD2",
+      "customer_email": "henry.davies@example.com",
+      "customer_phone": "07700000062",
+      "fees": {
+        "monthly_fee_ex_vat": 115,
+        "vat_amount": 23.0,
+        "monthly_fee_inc_vat": 138.0,
+        "display": "\u00a3115.00 per calendar month plus VAT (\u00a3138.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-03-29",
+      "termination_date": "Not before 21 August 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4850,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,850"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 142",
+        "keys_issued": 2,
+        "fob_id": "FOB-1062"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C18",
+      "unit_number": "C18",
+      "block": "east_block",
+      "floor": "Ground Floor",
+      "unit_description": "C18 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Leo Roberts",
+      "customer_address": "73 Meadow View, Wokingham, GU47 DE3",
+      "customer_email": "leo.roberts@example.com",
+      "customer_phone": "07700000063",
+      "fees": {
+        "monthly_fee_ex_vat": 120,
+        "vat_amount": 24.0,
+        "monthly_fee_inc_vat": 144.0,
+        "display": "\u00a3120.00 per calendar month plus VAT (\u00a3144.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-04-09",
+      "termination_date": "Not before 1 September 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5025,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,025"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 143",
+        "keys_issued": 2,
+        "fob_id": "FOB-1063"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C19",
+      "unit_number": "C19",
+      "block": "east_block",
+      "floor": "Ground Floor",
+      "unit_description": "C19 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Oscar Walker",
+      "customer_address": "74 Park Road, Sandhurst, GU48 EF4",
+      "customer_email": "oscar.walker@example.com",
+      "customer_phone": "07700000064",
+      "fees": {
+        "monthly_fee_ex_vat": 125,
+        "vat_amount": 25.0,
+        "monthly_fee_inc_vat": 150.0,
+        "display": "\u00a3125.00 per calendar month plus VAT (\u00a3150.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-04-20",
+      "termination_date": "Not before 12 September 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5200,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,200"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 144",
+        "keys_issued": 2,
+        "fob_id": "FOB-1064"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C1",
+      "unit_number": "C1",
+      "block": "east_block",
+      "floor": "Ground Floor",
+      "unit_description": "C1 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Arthur Green",
+      "customer_address": "75 The Avenue, Camberley, GU49 FG5",
+      "customer_email": "arthur.green@example.com",
+      "customer_phone": "07700000065",
+      "fees": {
+        "monthly_fee_ex_vat": 115,
+        "vat_amount": 23.0,
+        "monthly_fee_inc_vat": 138.0,
+        "display": "\u00a3115.00 per calendar month plus VAT (\u00a3138.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-05-01",
+      "termination_date": "Not before 23 September 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5375,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,375"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 145",
+        "keys_issued": 2,
+        "fob_id": "FOB-1065"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C2",
+      "unit_number": "C2",
+      "block": "east_block",
+      "floor": "Ground Floor",
+      "unit_description": "C2 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Lucas Hill",
+      "customer_address": "76 Queens Road, Frimley, GU47 GH6",
+      "customer_email": "lucas.hill@example.com",
+      "customer_phone": "07700000066",
+      "fees": {
+        "monthly_fee_ex_vat": 120,
+        "vat_amount": 24.0,
+        "monthly_fee_inc_vat": 144.0,
+        "display": "\u00a3120.00 per calendar month plus VAT (\u00a3144.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-05-12",
+      "termination_date": "Not before 4 October 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5550,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,550"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 146",
+        "keys_issued": 2,
+        "fob_id": "FOB-1066"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C3",
+      "unit_number": "C3",
+      "block": "east_block",
+      "floor": "Ground Floor",
+      "unit_description": "C3 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Isaac Jones",
+      "customer_address": "77 Rectory Lane, Crowthorne, GU48 HI7",
+      "customer_email": "isaac.jones@example.com",
+      "customer_phone": "07700000067",
+      "fees": {
+        "monthly_fee_ex_vat": 125,
+        "vat_amount": 25.0,
+        "monthly_fee_inc_vat": 150.0,
+        "display": "\u00a3125.00 per calendar month plus VAT (\u00a3150.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-05-23",
+      "termination_date": "Not before 15 October 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5725,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,725"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 147",
+        "keys_issued": 2,
+        "fob_id": "FOB-1067"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C4",
+      "unit_number": "C4",
+      "block": "east_block",
+      "floor": "Ground Floor",
+      "unit_description": "C4 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Archie Williams",
+      "customer_address": "78 Mill Lane, Yateley, GU49 IJ8",
+      "customer_email": "archie.williams@example.com",
+      "customer_phone": "07700000068",
+      "fees": {
+        "monthly_fee_ex_vat": 110,
+        "vat_amount": 22.0,
+        "monthly_fee_inc_vat": 132.0,
+        "display": "\u00a3110.00 per calendar month plus VAT (\u00a3132.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-06-03",
+      "termination_date": "Not before 26 October 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5900,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,900"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 148",
+        "keys_issued": 2,
+        "fob_id": "FOB-1068"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C5",
+      "unit_number": "C5",
+      "block": "east_block",
+      "floor": "Ground Floor",
+      "unit_description": "C5 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Ethan Evans",
+      "customer_address": "79 Horsham Road, Bracknell, GU47 JK9",
+      "customer_email": "ethan.evans@example.com",
+      "customer_phone": "07700000069",
+      "fees": {
+        "monthly_fee_ex_vat": 115,
+        "vat_amount": 23.0,
+        "monthly_fee_inc_vat": 138.0,
+        "display": "\u00a3115.00 per calendar month plus VAT (\u00a3138.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-06-14",
+      "termination_date": "Not before 6 November 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2075,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,075"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 149",
+        "keys_issued": 2,
+        "fob_id": "FOB-1069"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C6",
+      "unit_number": "C6",
+      "block": "east_block",
+      "floor": "Ground Floor",
+      "unit_description": "C6 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Chloe Johnson",
+      "customer_address": "80 York Road, Farnborough, GU48 KL0",
+      "customer_email": "chloe.johnson@example.com",
+      "customer_phone": "07700000070",
+      "fees": {
+        "monthly_fee_ex_vat": 120,
+        "vat_amount": 24.0,
+        "monthly_fee_inc_vat": 144.0,
+        "display": "\u00a3120.00 per calendar month plus VAT (\u00a3144.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-06-25",
+      "termination_date": "Not before 17 November 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2250,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,250"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 150",
+        "keys_issued": 2,
+        "fob_id": "FOB-1070"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C7",
+      "unit_number": "C7",
+      "block": "east_block",
+      "floor": "Ground Floor",
+      "unit_description": "C7 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Evie Wright",
+      "customer_address": "81 Manor Close, Wokingham, GU49 LM1",
+      "customer_email": "evie.wright@example.com",
+      "customer_phone": "07700000071",
+      "fees": {
+        "monthly_fee_ex_vat": 125,
+        "vat_amount": 25.0,
+        "monthly_fee_inc_vat": 150.0,
+        "display": "\u00a3125.00 per calendar month plus VAT (\u00a3150.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-07-06",
+      "termination_date": "Not before 28 November 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2425,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,425"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 151",
+        "keys_issued": 2,
+        "fob_id": "FOB-1071"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C8",
+      "unit_number": "C8",
+      "block": "east_block",
+      "floor": "Ground Floor",
+      "unit_description": "C8 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Sophie Baker",
+      "customer_address": "82 High Street, Sandhurst, GU47 MN2",
+      "customer_email": "sophie.baker@example.com",
+      "customer_phone": "07700000072",
+      "fees": {
+        "monthly_fee_ex_vat": 110,
+        "vat_amount": 22.0,
+        "monthly_fee_inc_vat": 132.0,
+        "display": "\u00a3110.00 per calendar month plus VAT (\u00a3132.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-07-17",
+      "termination_date": "Not before 9 December 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2600,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,600"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 152",
+        "keys_issued": 2,
+        "fob_id": "FOB-1072"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C9",
+      "unit_number": "C9",
+      "block": "east_block",
+      "floor": "Ground Floor",
+      "unit_description": "C9 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Rosie Turner",
+      "customer_address": "83 Church Road, Camberley, GU48 NO3",
+      "customer_email": "rosie.turner@example.com",
+      "customer_phone": "07700000073",
+      "fees": {
+        "monthly_fee_ex_vat": 115,
+        "vat_amount": 23.0,
+        "monthly_fee_inc_vat": 138.0,
+        "display": "\u00a3115.00 per calendar month plus VAT (\u00a3138.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-07-28",
+      "termination_date": "Not before 20 December 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2775,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,775"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 153",
+        "keys_issued": 2,
+        "fob_id": "FOB-1073"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C25",
+      "unit_number": "C25",
+      "block": "east_block",
+      "floor": "First Floor",
+      "unit_description": "C25 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Poppy Taylor",
+      "customer_address": "84 Station Road, Frimley, GU49 OP4",
+      "customer_email": "poppy.taylor@example.com",
+      "customer_phone": "07700000074",
+      "fees": {
+        "monthly_fee_ex_vat": 100,
+        "vat_amount": 20.0,
+        "monthly_fee_inc_vat": 120.0,
+        "display": "\u00a3100.00 per calendar month plus VAT (\u00a3120.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-08-08",
+      "termination_date": "Not before 31 December 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2950,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,950"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 154",
+        "keys_issued": 2,
+        "fob_id": "FOB-1074"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C24",
+      "unit_number": "C24",
+      "block": "east_block",
+      "floor": "First Floor",
+      "unit_description": "C24 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Matilda Wilson",
+      "customer_address": "85 London Road, Crowthorne, GU47 PQ5",
+      "customer_email": "matilda.wilson@example.com",
+      "customer_phone": "07700000075",
+      "fees": {
+        "monthly_fee_ex_vat": 95,
+        "vat_amount": 19.0,
+        "monthly_fee_inc_vat": 114.0,
+        "display": "\u00a395.00 per calendar month plus VAT (\u00a3114.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-08-19",
+      "termination_date": "Not before 11 January 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3125,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,125"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 155",
+        "keys_issued": 2,
+        "fob_id": "FOB-1075"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C23",
+      "unit_number": "C23",
+      "block": "east_block",
+      "floor": "First Floor",
+      "unit_description": "C23 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Ruby Thomas",
+      "customer_address": "86 Victoria Road, Yateley, GU48 QR6",
+      "customer_email": "ruby.thomas@example.com",
+      "customer_phone": "07700000076",
+      "fees": {
+        "monthly_fee_ex_vat": 110,
+        "vat_amount": 22.0,
+        "monthly_fee_inc_vat": 132.0,
+        "display": "\u00a3110.00 per calendar month plus VAT (\u00a3132.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-08-30",
+      "termination_date": "Not before 22 January 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3300,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,300"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 156",
+        "keys_issued": 2,
+        "fob_id": "FOB-1076"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C22",
+      "unit_number": "C22",
+      "block": "east_block",
+      "floor": "First Floor",
+      "unit_description": "C22 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Alice Lewis",
+      "customer_address": "87 School Lane, Bracknell, GU49 RS7",
+      "customer_email": "alice.lewis@example.com",
+      "customer_phone": "07700000077",
+      "fees": {
+        "monthly_fee_ex_vat": 105,
+        "vat_amount": 21.0,
+        "monthly_fee_inc_vat": 126.0,
+        "display": "\u00a3105.00 per calendar month plus VAT (\u00a3126.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-09-10",
+      "termination_date": "Not before 2 February 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3475,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,475"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 157",
+        "keys_issued": 2,
+        "fob_id": "FOB-1077"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C21",
+      "unit_number": "C21",
+      "block": "east_block",
+      "floor": "First Floor",
+      "unit_description": "C21 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Jessica Hall",
+      "customer_address": "88 Cedar Avenue, Farnborough, GU47 ST8",
+      "customer_email": "jessica.hall@example.com",
+      "customer_phone": "07700000078",
+      "fees": {
+        "monthly_fee_ex_vat": 100,
+        "vat_amount": 20.0,
+        "monthly_fee_inc_vat": 120.0,
+        "display": "\u00a3100.00 per calendar month plus VAT (\u00a3120.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-09-21",
+      "termination_date": "Not before 13 February 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3650,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,650"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 158",
+        "keys_issued": 2,
+        "fob_id": "FOB-1078"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C20",
+      "unit_number": "C20",
+      "block": "east_block",
+      "floor": "First Floor",
+      "unit_description": "C20 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Lucy Adams",
+      "customer_address": "89 Oak Lane, Wokingham, GU48 TU9",
+      "customer_email": "lucy.adams@example.com",
+      "customer_phone": "07700000079",
+      "fees": {
+        "monthly_fee_ex_vat": 95,
+        "vat_amount": 19.0,
+        "monthly_fee_inc_vat": 114.0,
+        "display": "\u00a395.00 per calendar month plus VAT (\u00a3114.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-10-02",
+      "termination_date": "Not before 24 February 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3825,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,825"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 159",
+        "keys_issued": 2,
+        "fob_id": "FOB-1079"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C16",
+      "unit_number": "C16",
+      "block": "east_block",
+      "floor": "First Floor",
+      "unit_description": "C16 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Oliver Smith",
+      "customer_address": "90 Birch Close, Sandhurst, GU49 AB0",
+      "customer_email": "oliver.smith@example.com",
+      "customer_phone": "07700000080",
+      "fees": {
+        "monthly_fee_ex_vat": 95,
+        "vat_amount": 19.0,
+        "monthly_fee_inc_vat": 114.0,
+        "display": "\u00a395.00 per calendar month plus VAT (\u00a3114.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-10-13",
+      "termination_date": "Not before 7 March 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4000,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,000"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 160",
+        "keys_issued": 2,
+        "fob_id": "FOB-1080"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C15",
+      "unit_number": "C15",
+      "block": "east_block",
+      "floor": "First Floor",
+      "unit_description": "C15 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "George Brown",
+      "customer_address": "91 Meadow View, Camberley, GU47 BC1",
+      "customer_email": "george.brown@example.com",
+      "customer_phone": "07700000081",
+      "fees": {
+        "monthly_fee_ex_vat": 110,
+        "vat_amount": 22.0,
+        "monthly_fee_inc_vat": 132.0,
+        "display": "\u00a3110.00 per calendar month plus VAT (\u00a3132.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-10-24",
+      "termination_date": "Not before 18 March 2026, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4175,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,175"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 161",
+        "keys_issued": 2,
+        "fob_id": "FOB-1081"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C14",
+      "unit_number": "C14",
+      "block": "east_block",
+      "floor": "First Floor",
+      "unit_description": "C14 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Harry Davies",
+      "customer_address": "92 Park Road, Frimley, GU48 CD2",
+      "customer_email": "harry.davies@example.com",
+      "customer_phone": "07700000082",
+      "fees": {
+        "monthly_fee_ex_vat": 105,
+        "vat_amount": 21.0,
+        "monthly_fee_inc_vat": 126.0,
+        "display": "\u00a3105.00 per calendar month plus VAT (\u00a3126.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-01-08",
+      "termination_date": "Not before 2 June 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4350,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,350"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 162",
+        "keys_issued": 2,
+        "fob_id": "FOB-1082"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C13",
+      "unit_number": "C13",
+      "block": "east_block",
+      "floor": "First Floor",
+      "unit_description": "C13 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Jack Roberts",
+      "customer_address": "93 The Avenue, Crowthorne, GU49 DE3",
+      "customer_email": "jack.roberts@example.com",
+      "customer_phone": "07700000083",
+      "fees": {
+        "monthly_fee_ex_vat": 100,
+        "vat_amount": 20.0,
+        "monthly_fee_inc_vat": 120.0,
+        "display": "\u00a3100.00 per calendar month plus VAT (\u00a3120.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-01-19",
+      "termination_date": "Not before 13 June 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4525,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,525"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 163",
+        "keys_issued": 2,
+        "fob_id": "FOB-1083"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C12",
+      "unit_number": "C12",
+      "block": "east_block",
+      "floor": "First Floor",
+      "unit_description": "C12 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Noah Walker",
+      "customer_address": "94 Queens Road, Yateley, GU47 EF4",
+      "customer_email": "noah.walker@example.com",
+      "customer_phone": "07700000084",
+      "fees": {
+        "monthly_fee_ex_vat": 95,
+        "vat_amount": 19.0,
+        "monthly_fee_inc_vat": 114.0,
+        "display": "\u00a395.00 per calendar month plus VAT (\u00a3114.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-01-30",
+      "termination_date": "Not before 24 June 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4700,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,700"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 164",
+        "keys_issued": 2,
+        "fob_id": "FOB-1084"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "C11",
+      "unit_number": "C11",
+      "block": "east_block",
+      "floor": "First Floor",
+      "unit_description": "C11 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Charlie Green",
+      "customer_address": "95 Rectory Lane, Bracknell, GU48 FG5",
+      "customer_email": "charlie.green@example.com",
+      "customer_phone": "07700000085",
+      "fees": {
+        "monthly_fee_ex_vat": 110,
+        "vat_amount": 22.0,
+        "monthly_fee_inc_vat": 132.0,
+        "display": "\u00a3110.00 per calendar month plus VAT (\u00a3132.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-02-10",
+      "termination_date": "Not before 5 July 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 4875,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a34,875"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 165",
+        "keys_issued": 2,
+        "fob_id": "FOB-1085"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A01",
+      "unit_number": "A01",
+      "block": "south_east_block",
+      "floor": "Ground Floor",
+      "unit_description": "A01 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Jacob Hill",
+      "customer_address": "96 Mill Lane, Farnborough, GU49 GH6",
+      "customer_email": "jacob.hill@example.com",
+      "customer_phone": "07700000086",
+      "fees": {
+        "monthly_fee_ex_vat": 170,
+        "vat_amount": 34.0,
+        "monthly_fee_inc_vat": 204.0,
+        "display": "\u00a3170.00 per calendar month plus VAT (\u00a3204.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-02-21",
+      "termination_date": "Not before 16 July 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5050,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,050"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 166",
+        "keys_issued": 2,
+        "fob_id": "FOB-1086"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A11",
+      "unit_number": "A11",
+      "block": "south_east_block",
+      "floor": "Ground Floor",
+      "unit_description": "A11 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Freddie Jones",
+      "customer_address": "97 Horsham Road, Wokingham, GU47 HI7",
+      "customer_email": "freddie.jones@example.com",
+      "customer_phone": "07700000087",
+      "fees": {
+        "monthly_fee_ex_vat": 180,
+        "vat_amount": 36.0,
+        "monthly_fee_inc_vat": 216.0,
+        "display": "\u00a3180.00 per calendar month plus VAT (\u00a3216.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-03-04",
+      "termination_date": "Not before 27 July 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5225,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,225"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 167",
+        "keys_issued": 2,
+        "fob_id": "FOB-1087"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A30",
+      "unit_number": "A30",
+      "block": "south_east_block",
+      "floor": "Ground Floor",
+      "unit_description": "A30 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Thomas Williams",
+      "customer_address": "98 York Road, Sandhurst, GU48 IJ8",
+      "customer_email": "thomas.williams@example.com",
+      "customer_phone": "07700000088",
+      "fees": {
+        "monthly_fee_ex_vat": 175,
+        "vat_amount": 35.0,
+        "monthly_fee_inc_vat": 210.0,
+        "display": "\u00a3175.00 per calendar month plus VAT (\u00a3210.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-03-15",
+      "termination_date": "Not before 7 August 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5400,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,400"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 168",
+        "keys_issued": 2,
+        "fob_id": "FOB-1088"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A10",
+      "unit_number": "A10",
+      "block": "south_east_block",
+      "floor": "First Floor",
+      "unit_description": "A10 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Theo Evans",
+      "customer_address": "99 Manor Close, Camberley, GU49 JK9",
+      "customer_email": "theo.evans@example.com",
+      "customer_phone": "07700000089",
+      "fees": {
+        "monthly_fee_ex_vat": 155,
+        "vat_amount": 31.0,
+        "monthly_fee_inc_vat": 186.0,
+        "display": "\u00a3155.00 per calendar month plus VAT (\u00a3186.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-03-26",
+      "termination_date": "Not before 18 August 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5575,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,575"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 169",
+        "keys_issued": 2,
+        "fob_id": "FOB-1089"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A29",
+      "unit_number": "A29",
+      "block": "south_east_block",
+      "floor": "First Floor",
+      "unit_description": "A29 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Amelia Johnson",
+      "customer_address": "100 High Street, Frimley, GU47 KL0",
+      "customer_email": "amelia.johnson@example.com",
+      "customer_phone": "07700000090",
+      "fees": {
+        "monthly_fee_ex_vat": 150,
+        "vat_amount": 30.0,
+        "monthly_fee_inc_vat": 180.0,
+        "display": "\u00a3150.00 per calendar month plus VAT (\u00a3180.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-04-06",
+      "termination_date": "Not before 29 August 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5750,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,750"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 170",
+        "keys_issued": 2,
+        "fob_id": "FOB-1090"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "A28",
+      "unit_number": "A28",
+      "block": "south_east_block",
+      "floor": "First Floor",
+      "unit_description": "A28 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Olivia Wright",
+      "customer_address": "101 Church Road, Crowthorne, GU48 LM1",
+      "customer_email": "olivia.wright@example.com",
+      "customer_phone": "07700000091",
+      "fees": {
+        "monthly_fee_ex_vat": 145,
+        "vat_amount": 29.0,
+        "monthly_fee_inc_vat": 174.0,
+        "display": "\u00a3145.00 per calendar month plus VAT (\u00a3174.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-04-17",
+      "termination_date": "Not before 9 September 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 5925,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a35,925"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 171",
+        "keys_issued": 2,
+        "fob_id": "FOB-1091"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B4",
+      "unit_number": "B4",
+      "block": "south_central_block",
+      "floor": "Ground Floor",
+      "unit_description": "B4 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Emily Baker",
+      "customer_address": "102 Station Road, Yateley, GU49 MN2",
+      "customer_email": "emily.baker@example.com",
+      "customer_phone": "07700000092",
+      "fees": {
+        "monthly_fee_ex_vat": 135,
+        "vat_amount": 27.0,
+        "monthly_fee_inc_vat": 162.0,
+        "display": "\u00a3135.00 per calendar month plus VAT (\u00a3162.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-04-28",
+      "termination_date": "Not before 20 September 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2100,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,100"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 172",
+        "keys_issued": 2,
+        "fob_id": "FOB-1092"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B3",
+      "unit_number": "B3",
+      "block": "south_central_block",
+      "floor": "Ground Floor",
+      "unit_description": "B3 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Isla Turner",
+      "customer_address": "103 London Road, Bracknell, GU47 NO3",
+      "customer_email": "isla.turner@example.com",
+      "customer_phone": "07700000093",
+      "fees": {
+        "monthly_fee_ex_vat": 150,
+        "vat_amount": 30.0,
+        "monthly_fee_inc_vat": 180.0,
+        "display": "\u00a3150.00 per calendar month plus VAT (\u00a3180.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-05-09",
+      "termination_date": "Not before 1 October 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2275,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,275"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 173",
+        "keys_issued": 2,
+        "fob_id": "FOB-1093"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B2",
+      "unit_number": "B2",
+      "block": "south_central_block",
+      "floor": "Ground Floor",
+      "unit_description": "B2 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Ava Taylor",
+      "customer_address": "104 Victoria Road, Farnborough, GU48 OP4",
+      "customer_email": "ava.taylor@example.com",
+      "customer_phone": "07700000094",
+      "fees": {
+        "monthly_fee_ex_vat": 145,
+        "vat_amount": 29.0,
+        "monthly_fee_inc_vat": 174.0,
+        "display": "\u00a3145.00 per calendar month plus VAT (\u00a3174.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-05-20",
+      "termination_date": "Not before 12 October 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2450,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,450"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 174",
+        "keys_issued": 2,
+        "fob_id": "FOB-1094"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B1",
+      "unit_number": "B1",
+      "block": "south_central_block",
+      "floor": "Ground Floor",
+      "unit_description": "B1 (Ground Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Sophia Wilson",
+      "customer_address": "105 School Lane, Wokingham, GU49 PQ5",
+      "customer_email": "sophia.wilson@example.com",
+      "customer_phone": "07700000095",
+      "fees": {
+        "monthly_fee_ex_vat": 140,
+        "vat_amount": 28.0,
+        "monthly_fee_inc_vat": 168.0,
+        "display": "\u00a3140.00 per calendar month plus VAT (\u00a3168.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-05-31",
+      "termination_date": "Not before 23 October 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2625,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,625"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 175",
+        "keys_issued": 2,
+        "fob_id": "FOB-1095"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B8",
+      "unit_number": "B8",
+      "block": "south_central_block",
+      "floor": "First Floor",
+      "unit_description": "B8 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Grace Thomas",
+      "customer_address": "106 Cedar Avenue, Sandhurst, GU47 QR6",
+      "customer_email": "grace.thomas@example.com",
+      "customer_phone": "07700000096",
+      "fees": {
+        "monthly_fee_ex_vat": 120,
+        "vat_amount": 24.0,
+        "monthly_fee_inc_vat": 144.0,
+        "display": "\u00a3120.00 per calendar month plus VAT (\u00a3144.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-06-11",
+      "termination_date": "Not before 3 November 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2800,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,800"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 176",
+        "keys_issued": 2,
+        "fob_id": "FOB-1096"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B7",
+      "unit_number": "B7",
+      "block": "south_central_block",
+      "floor": "First Floor",
+      "unit_description": "B7 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Lily Lewis",
+      "customer_address": "107 Oak Lane, Camberley, GU48 RS7",
+      "customer_email": "lily.lewis@example.com",
+      "customer_phone": "07700000097",
+      "fees": {
+        "monthly_fee_ex_vat": 135,
+        "vat_amount": 27.0,
+        "monthly_fee_inc_vat": 162.0,
+        "display": "\u00a3135.00 per calendar month plus VAT (\u00a3162.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-06-22",
+      "termination_date": "Not before 14 November 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 2975,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a32,975"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 177",
+        "keys_issued": 2,
+        "fob_id": "FOB-1097"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B6",
+      "unit_number": "B6",
+      "block": "south_central_block",
+      "floor": "First Floor",
+      "unit_description": "B6 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Ella Hall",
+      "customer_address": "108 Birch Close, Frimley, GU49 ST8",
+      "customer_email": "ella.hall@example.com",
+      "customer_phone": "07700000098",
+      "fees": {
+        "monthly_fee_ex_vat": 130,
+        "vat_amount": 26.0,
+        "monthly_fee_inc_vat": 156.0,
+        "display": "\u00a3130.00 per calendar month plus VAT (\u00a3156.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-07-03",
+      "termination_date": "Not before 25 November 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3150,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,150"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 178",
+        "keys_issued": 2,
+        "fob_id": "FOB-1098"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    },
+    {
+      "site_map_label": "B5",
+      "unit_number": "B5",
+      "block": "south_central_block",
+      "floor": "First Floor",
+      "unit_description": "B5 (First Floor)",
+      "storage_provider": {
+        "name": "UStore Sandhurst Ltd",
+        "address": "Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "website": "UStoreSandhurst.co.uk",
+        "phone": "01252 877777",
+        "fax": "01252 877387",
+        "registered_office": "3 Vulcan Way, Sandhurst, Berkshire, GU47 9DB",
+        "company_number": "06440679"
+      },
+      "customer_name": "Mia Adams",
+      "customer_address": "109 Meadow View, Crowthorne, GU47 TU9",
+      "customer_email": "mia.adams@example.com",
+      "customer_phone": "07700000099",
+      "fees": {
+        "monthly_fee_ex_vat": 125,
+        "vat_amount": 25.0,
+        "monthly_fee_inc_vat": 150.0,
+        "display": "\u00a3125.00 per calendar month plus VAT (\u00a3150.00 pcm inc VAT)",
+        "payment_terms": "payable monthly in advance by direct debit, on the 1st of each month"
+      },
+      "commencement_date": "2025-07-14",
+      "termination_date": "Not before 6 December 2025, thereafter not less than 28 days notice to end on a month end",
+      "deposit": "None",
+      "insurance": {
+        "provided_by_ustore": false,
+        "declared_value_of_goods": 3325,
+        "display": "No contents insurance is provided by UStore Sandhurst Ltd, but you have advised us your Declared Value of Goods is \u00a33,325"
+      },
+      "padlock_fobs": {
+        "padlock_number": "MLS 179",
+        "keys_issued": 2,
+        "fob_id": "FOB-1099"
+      },
+      "access_hours": "06:00-19:00, 7 days a week",
+      "status": "active",
+      "notes": "Dummy customer record for demo purposes only."
+    }
+  ]
+}
