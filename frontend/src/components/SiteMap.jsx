@@ -93,16 +93,22 @@ function buildHotspots() {
     })
   }
 
-  const left = { x: 170, y: 156, w: 444, rowH: 88 }
+  const left = { x: 170, y: 156, w: 444, rowH: 88, smallRowH: 83 }
+  // First 7 rows at full height, last 3 rows + split row at reduced height
   LEFT_ROWS.forEach((row, rowIndex) => {
+    const rH = rowIndex >= 7 ? left.smallRowH : left.rowH
+    const y = rowIndex < 7
+      ? left.y + rowIndex * left.rowH
+      : left.y + 7 * left.rowH + (rowIndex - 7) * left.smallRowH
     row.forEach((label, colIndex) => {
-      add(label, left.x + colIndex * (left.w / 2), left.y + rowIndex * left.rowH, left.w / 2, left.rowH)
+      add(label, left.x + colIndex * (left.w / 2), y, left.w / 2, rH)
     })
   })
-  // Last row: A45 = left half, B16 = top-right quarter, B17 = bottom-right quarter
-  add('A45', left.x,                         left.y + 10 * left.rowH, left.w / 2,     left.rowH)
-  add('B16', left.x + left.w / 2,            left.y + 10 * left.rowH, left.w / 4,     left.rowH)
-  add('B17', left.x + left.w / 2 + left.w / 4, left.y + 10 * left.rowH, left.w / 4,  left.rowH)
+  // Last row (split): same reduced height
+  const lastY = left.y + 7 * left.rowH + 3 * left.smallRowH
+  add('A45', left.x,                  lastY, left.w / 2, left.smallRowH)
+  add('B16', left.x + left.w / 2,     lastY, left.w / 4, left.smallRowH)
+  add('B17', left.x + left.w * 3 / 4, lastY, left.w / 4, left.smallRowH)
 
   const mid = { x: 844, y: 136, w: 444, rowH: 88 }
   MID_ROWS.forEach((row, rowIndex) => {
