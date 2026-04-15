@@ -99,9 +99,10 @@ function buildHotspots() {
       add(label, left.x + colIndex * (left.w / 2), left.y + rowIndex * left.rowH, left.w / 2, left.rowH)
     })
   })
-  ;['A45', 'B16', 'B17'].forEach((label, colIndex) => {
-    add(label, left.x + colIndex * (left.w / 3), left.y + 10 * left.rowH, left.w / 3, left.rowH)
-  })
+  // Last row: A45 = left half, B16 = top-right quarter, B17 = bottom-right quarter
+  add('A45', left.x,                         left.y + 10 * left.rowH, left.w / 2,     left.rowH)
+  add('B16', left.x + left.w / 2,            left.y + 10 * left.rowH, left.w / 4,     left.rowH)
+  add('B17', left.x + left.w / 2 + left.w / 4, left.y + 10 * left.rowH, left.w / 4,  left.rowH)
 
   const mid = { x: 844, y: 136, w: 444, rowH: 88 }
   MID_ROWS.forEach((row, rowIndex) => {
