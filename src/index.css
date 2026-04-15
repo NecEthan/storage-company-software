@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .field-input {
+    @apply w-full border border-gray-200 rounded px-2.5 py-1.5 text-sm outline-none focus:border-gray-500 bg-white text-gray-900 transition-colors;
+  }
+  .btn-primary {
+    @apply bg-gray-900 text-white text-sm font-semibold px-3 py-1.5 rounded hover:bg-gray-700 transition-colors whitespace-nowrap cursor-pointer;
+  }
+  .btn-secondary {
+    @apply border border-gray-200 rounded px-3 py-2 text-xs font-medium text-gray-700 hover:bg-gray-50 transition-colors cursor-pointer;
+  }
+}
